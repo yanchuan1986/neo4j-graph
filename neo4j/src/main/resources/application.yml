@@ -1,0 +1,11 @@
+server:
+  port: 7777
+
+logHome: /tmp/log/neo4j
+
+neo4j.uri: bolt://192.168.42.167:7687
+neo4j.username: neo4j
+neo4j.password: 198600
+
+
+
